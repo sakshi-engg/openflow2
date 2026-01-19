@@ -420,7 +420,7 @@
       "retriedRelationships" : [ ],
       "retryCount" : 10,
       "runDurationMillis" : 0,
-      "scheduledState" : "DISABLED",
+      "scheduledState" : "ENABLED",
       "schedulingPeriod" : "0 sec",
       "schedulingStrategy" : "TIMER_DRIVEN",
       "style" : { },
@@ -611,7 +611,7 @@
       "retriedRelationships" : [ ],
       "retryCount" : 10,
       "runDurationMillis" : 0,
-      "scheduledState" : "DISABLED",
+      "scheduledState" : "ENABLED",
       "schedulingPeriod" : "0 sec",
       "schedulingStrategy" : "TIMER_DRIVEN",
       "style" : { },
@@ -707,6 +707,6 @@
   "snapshotMetadata" : {
     "author" : "SAKSHIR7",
     "flowIdentifier" : "APItotable",
-    "timestamp" : 1768827479913
+    "timestamp" : 1768827941295
   }
 }
